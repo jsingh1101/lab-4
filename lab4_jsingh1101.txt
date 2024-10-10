@@ -1,0 +1,10 @@
+OPS445 Lab Report - System Information for running ./CheckLab4.py
+=================================================================
+    User login name: jsingh1101
+    Linux system name: jsingh1101-VirtualBox
+    Python executable: /usr/bin/python3
+    Python version: 3123
+    OS Platform: linux
+    Working Directory: /home/jsingh1101/ops445/lab4
+    Start at: Thu Oct 10 00:10:30 2024
+=================================================================
